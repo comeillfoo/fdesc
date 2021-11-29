@@ -7,3 +7,4 @@ fdesc.mod*
 fdesc.o*
 Module*
 modules*
+.tmp*
