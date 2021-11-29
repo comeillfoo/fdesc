@@ -1,0 +1,9 @@
+.fdesc*
+.Module*
+.modules*
+fdesc.dwo
+fdesc.ko
+fdesc.mod*
+fdesc.o*
+Module*
+modules*
